@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**thomasflamand/thomasflamand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://capsule-render.vercel.app/api?type=rect&height=180&color=0:020617,100:1e3a8a&text=Thomas%20Flamand&fontColor=e5e7eb&fontSize=48&desc=Operations%20Research%20%7C%20ML%20%7C%20AI%20Engineering&descAlignY=62)
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20Flamand-0f172a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-flamand-3772a5251/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## Snapshot
+
+| **Education** | **Experience** |
+|---|---|
+| M.S. Operations Research, Columbia University<br>Engineering degree, CentraleSupélec (CS, Applied Math & Data Science) | AI Engineering Intern @ Veolia<br>(à compléter) |
+
+**Core stack:** Python · PyTorch · PySpark · SQL · BigQuery · Optimization · Machine Learning
+
+## Featured Work
+
+### Nom du projet
+**Problem:** ...
+**Solution:** ...
+**Impact:** ... (un chiffre)
+**Stack:** ...
+[Repo](https://github.com/thomasflamand/Airbnb_Price_Prediction)
+
+<!-- répéter pour 4 à 6 projets -->
+
+## Current Interests
+LLM Evaluation · Optimization · Operations Research · ...
